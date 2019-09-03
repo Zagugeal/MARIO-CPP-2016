@@ -1,0 +1,22 @@
+Player Time: 7
+Player Time: 8
+Player Time: 8
+Player Time: 16
+Player Time: 11 Coins:4
+Player: Time: 12 Coins: 4
+Player: Time: 8 Coins: 1
+Player: Time: 19 Coins: 4
+Player: Time: 10 Coins: 2
+Player: Time: 12 Coins: 4
+Player: Time: 9 Coins: 2
+Player: Time: 12 Coins: 4
+Player: Time: 9 Coins: 2
+Player: Time: 24 Coins: 4
+Player: Time: 14 Coins: 4
+Player: Time: 13 Coins: 4
+Player: Time: 16 Coins: 4
+Player: Time: 28 Coins: 4
+Player: Time: 19 Coins: 4
+Player: Time: 19 Coins: 4
+Player: Time: 9 Coins: 1
+Player: Time: 24 Coins: 2
